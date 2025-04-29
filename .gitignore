@@ -1,0 +1,21 @@
+/ASProjects/Backups
+# AS Temp
+Binaries/
+Diagnosis/
+Temp/
+AS/
+artransfer.br
+arTrsfmode.nv
+
+# General types
+*.bak
+*.orig
+*.isopen
+*.set
+*.DS_Store
+*.zip
+
+# safety
+*/Physical/**/DLFiles/*
+!*/Physical/**/*.set
+
