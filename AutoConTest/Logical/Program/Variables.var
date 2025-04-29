@@ -1,0 +1,4 @@
+VAR
+	input : BOOL;
+	output : BOOL;
+END_VAR
